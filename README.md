@@ -6,4 +6,4 @@ The program is made up of 4 parts: **graph representation**, **binary min heap**
 
 Full documentation in Slovak is in the file called _dokumentacia.pdf_
 
-![example](example.jpg)
+![example](example.JPG)
